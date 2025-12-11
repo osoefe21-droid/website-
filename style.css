@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lavender;
+    color: black;
+    max-width:800px;
+    margin: auto;
+    padding: 20px;
+}
+header{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    background: 3px red;
+
+}
+section{
+    margin-bottom: 30px;
+
+}
+h1,h2{
+    color: ;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+ul{
+    list-style-type: square; 
+    
+}
